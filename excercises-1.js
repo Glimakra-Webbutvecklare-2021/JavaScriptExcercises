@@ -17,3 +17,5 @@
 // 8. Skapa en funktion som berättar vilket datum det är YYYY-mm-dd
 
 // 9. Skapa en funktion som skriver ut "Förmiddag" eller "Eftermiddag" beronde på aktuell tid
+
+// 10. Skapa en funktion som du tycker är användbar...!
